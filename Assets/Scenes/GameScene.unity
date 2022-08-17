@@ -924,7 +924,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 0
-  Num: 0
+  Num: 85
 --- !u!1 &100174834
 GameObject:
   m_ObjectHideFlags: 0
@@ -1372,7 +1372,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 0
-  Num: 0
+  Num: 89
 --- !u!1 &164132800
 GameObject:
   m_ObjectHideFlags: 0
@@ -2503,7 +2503,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 2
-  Num: 0
+  Num: 90
 --- !u!1 &361282688
 GameObject:
   m_ObjectHideFlags: 0
@@ -2745,7 +2745,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 2
-  Num: 0
+  Num: 84
 --- !u!1 &391273321
 GameObject:
   m_ObjectHideFlags: 0
@@ -4273,7 +4273,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 0
-  Num: 0
+  Num: 81
 --- !u!1 &508148204
 GameObject:
   m_ObjectHideFlags: 0
@@ -6708,96 +6708,6 @@ MonoBehaviour:
   - {fileID: 477522300}
   - {fileID: 1191569883}
   Vec:
-  - {x: -9, y: 1.1, z: -9}
-  - {x: -7, y: 1.1, z: -9}
-  - {x: -5, y: 1.1, z: -9}
-  - {x: -3, y: 1.1, z: -9}
-  - {x: -1, y: 1.1, z: -9}
-  - {x: 1, y: 1.1, z: -9}
-  - {x: 3, y: 1.1, z: -9}
-  - {x: 5, y: 1.1, z: -9}
-  - {x: 7, y: 1.1, z: -9}
-  - {x: 9, y: 1.1, z: -9}
-  - {x: -9, y: 1.1, z: -7}
-  - {x: -7, y: 1.1, z: -7}
-  - {x: -5, y: 1.1, z: -7}
-  - {x: -3, y: 1.1, z: -7}
-  - {x: -1, y: 1.1, z: -7}
-  - {x: 1, y: 1.1, z: -7}
-  - {x: 3, y: 1.1, z: -7}
-  - {x: 5, y: 1.1, z: -7}
-  - {x: 7, y: 1.1, z: -7}
-  - {x: 9, y: 1.1, z: -7}
-  - {x: -9, y: 1.1, z: -5}
-  - {x: -7, y: 1.1, z: -5}
-  - {x: -5, y: 1.1, z: -5}
-  - {x: -3, y: 1.1, z: -5}
-  - {x: -1, y: 1.1, z: -5}
-  - {x: 1, y: 1.1, z: -5}
-  - {x: 3, y: 1.1, z: -5}
-  - {x: 5, y: 1.1, z: -5}
-  - {x: 7, y: 1.1, z: -5}
-  - {x: 9, y: 1.1, z: -5}
-  - {x: -9, y: 1.1, z: -3}
-  - {x: -7, y: 1.1, z: -3}
-  - {x: -5, y: 1.1, z: -3}
-  - {x: -3, y: 1.1, z: -3}
-  - {x: -1, y: 1.1, z: -3}
-  - {x: 1, y: 1.1, z: -3}
-  - {x: 3, y: 1.1, z: -3}
-  - {x: 5, y: 1.1, z: -3}
-  - {x: 7, y: 1.1, z: -3}
-  - {x: 9, y: 1.1, z: -3}
-  - {x: -9, y: 1.1, z: -1}
-  - {x: -7, y: 1.1, z: -1}
-  - {x: -5, y: 1.1, z: -1}
-  - {x: -3, y: 1.1, z: -1}
-  - {x: -1, y: 1.1, z: -1}
-  - {x: 1, y: 1.1, z: -1}
-  - {x: 3, y: 1.1, z: -1}
-  - {x: 5, y: 1.1, z: -1}
-  - {x: 7, y: 1.1, z: -1}
-  - {x: 9, y: 1.1, z: -1}
-  - {x: -9, y: 1.1, z: 1}
-  - {x: -7, y: 1.1, z: 1}
-  - {x: -5, y: 1.1, z: 1}
-  - {x: -3, y: 1.1, z: 1}
-  - {x: -1, y: 1.1, z: 1}
-  - {x: 1, y: 1.1, z: 1}
-  - {x: 3, y: 1.1, z: 1}
-  - {x: 5, y: 1.1, z: 1}
-  - {x: 7, y: 1.1, z: 1}
-  - {x: 9, y: 1.1, z: 1}
-  - {x: -9, y: 1.1, z: 3}
-  - {x: -7, y: 1.1, z: 3}
-  - {x: -5, y: 1.1, z: 3}
-  - {x: -3, y: 1.1, z: 3}
-  - {x: -1, y: 1.1, z: 3}
-  - {x: 1, y: 1.1, z: 3}
-  - {x: 3, y: 1.1, z: 3}
-  - {x: 5, y: 1.1, z: 3}
-  - {x: 7, y: 1.1, z: 3}
-  - {x: 9, y: 1.1, z: 3}
-  - {x: -9, y: 1.1, z: 5}
-  - {x: -7, y: 1.1, z: 5}
-  - {x: -5, y: 1.1, z: 5}
-  - {x: -3, y: 1.1, z: 5}
-  - {x: -1, y: 1.1, z: 5}
-  - {x: 1, y: 1.1, z: 5}
-  - {x: 3, y: 1.1, z: 5}
-  - {x: 5, y: 1.1, z: 5}
-  - {x: 7, y: 1.1, z: 5}
-  - {x: 9, y: 1.1, z: 5}
-  - {x: -9, y: 1.1, z: 7}
-  - {x: -7, y: 1.1, z: 7}
-  - {x: -5, y: 1.1, z: 7}
-  - {x: -3, y: 1.1, z: 7}
-  - {x: -1, y: 1.1, z: 7}
-  - {x: 1, y: 1.1, z: 7}
-  - {x: 3, y: 1.1, z: 7}
-  - {x: 5, y: 1.1, z: 7}
-  - {x: 7, y: 1.1, z: 7}
-  - {x: 9, y: 1.1, z: 7}
   - {x: -9, y: 1.1, z: 9}
   - {x: -7, y: 1.1, z: 9}
   - {x: -5, y: 1.1, z: 9}
@@ -6808,7 +6718,140 @@ MonoBehaviour:
   - {x: 5, y: 1.1, z: 9}
   - {x: 7, y: 1.1, z: 9}
   - {x: 9, y: 1.1, z: 9}
+  - {x: -9, y: 1.1, z: 7}
+  - {x: -7, y: 1.1, z: 7}
+  - {x: -5, y: 1.1, z: 7}
+  - {x: -3, y: 1.1, z: 7}
+  - {x: -1, y: 1.1, z: 7}
+  - {x: 1, y: 1.1, z: 7}
+  - {x: 3, y: 1.1, z: 7}
+  - {x: 5, y: 1.1, z: 7}
+  - {x: 7, y: 1.1, z: 7}
+  - {x: 9, y: 1.1, z: 7}
+  - {x: -9, y: 1.1, z: 5}
+  - {x: -7, y: 1.1, z: 5}
+  - {x: -5, y: 1.1, z: 5}
+  - {x: -3, y: 1.1, z: 5}
+  - {x: -1, y: 1.1, z: 5}
+  - {x: 1, y: 1.1, z: 5}
+  - {x: 3, y: 1.1, z: 5}
+  - {x: 5, y: 1.1, z: 5}
+  - {x: 7, y: 1.1, z: 5}
+  - {x: 9, y: 1.1, z: 5}
+  - {x: -9, y: 1.1, z: 3}
+  - {x: -7, y: 1.1, z: 3}
+  - {x: -5, y: 1.1, z: 3}
+  - {x: -3, y: 1.1, z: 3}
+  - {x: -1, y: 1.1, z: 3}
+  - {x: 1, y: 1.1, z: 3}
+  - {x: 3, y: 1.1, z: 3}
+  - {x: 5, y: 1.1, z: 3}
+  - {x: 7, y: 1.1, z: 3}
+  - {x: 9, y: 1.1, z: 3}
+  - {x: -9, y: 1.1, z: 1}
+  - {x: -7, y: 1.1, z: 1}
+  - {x: -5, y: 1.1, z: 1}
+  - {x: -3, y: 1.1, z: 1}
+  - {x: -1, y: 1.1, z: 1}
+  - {x: 1, y: 1.1, z: 1}
+  - {x: 3, y: 1.1, z: 1}
+  - {x: 5, y: 1.1, z: 1}
+  - {x: 7, y: 1.1, z: 1}
+  - {x: 9, y: 1.1, z: 1}
+  - {x: -9, y: 1.1, z: -1}
+  - {x: -7, y: 1.1, z: -1}
+  - {x: -5, y: 1.1, z: -1}
+  - {x: -3, y: 1.1, z: -1}
+  - {x: -1, y: 1.1, z: -1}
+  - {x: 1, y: 1.1, z: -1}
+  - {x: 3, y: 1.1, z: -1}
+  - {x: 5, y: 1.1, z: -1}
+  - {x: 7, y: 1.1, z: -1}
+  - {x: 9, y: 1.1, z: -1}
+  - {x: -9, y: 1.1, z: -3}
+  - {x: -7, y: 1.1, z: -3}
+  - {x: -5, y: 1.1, z: -3}
+  - {x: -3, y: 1.1, z: -3}
+  - {x: -1, y: 1.1, z: -3}
+  - {x: 1, y: 1.1, z: -3}
+  - {x: 3, y: 1.1, z: -3}
+  - {x: 5, y: 1.1, z: -3}
+  - {x: 7, y: 1.1, z: -3}
+  - {x: 9, y: 1.1, z: -3}
+  - {x: -9, y: 1.1, z: -5}
+  - {x: -7, y: 1.1, z: -5}
+  - {x: -5, y: 1.1, z: -5}
+  - {x: -3, y: 1.1, z: -5}
+  - {x: -1, y: 1.1, z: -5}
+  - {x: 1, y: 1.1, z: -5}
+  - {x: 3, y: 1.1, z: -5}
+  - {x: 5, y: 1.1, z: -5}
+  - {x: 7, y: 1.1, z: -5}
+  - {x: 9, y: 1.1, z: -5}
+  - {x: -9, y: 1.1, z: -7}
+  - {x: -7, y: 1.1, z: -7}
+  - {x: -5, y: 1.1, z: -7}
+  - {x: -3, y: 1.1, z: -7}
+  - {x: -1, y: 1.1, z: -7}
+  - {x: 1, y: 1.1, z: -7}
+  - {x: 3, y: 1.1, z: -7}
+  - {x: 5, y: 1.1, z: -7}
+  - {x: 7, y: 1.1, z: -7}
+  - {x: 9, y: 1.1, z: -7}
+  - {x: -9, y: 1.1, z: -9}
+  - {x: -7, y: 1.1, z: -9}
+  - {x: -5, y: 1.1, z: -9}
+  - {x: -3, y: 1.1, z: -9}
+  - {x: -1, y: 1.1, z: -9}
+  - {x: 1, y: 1.1, z: -9}
+  - {x: 3, y: 1.1, z: -9}
+  - {x: 5, y: 1.1, z: -9}
+  - {x: 7, y: 1.1, z: -9}
+  - {x: 9, y: 1.1, z: -9}
+  checkersList:
+  - {fileID: 2018397922}
+  - {fileID: 391273323}
+  - {fileID: 1961193562}
+  - {fileID: 686834013}
+  - {fileID: 1710153462}
+  - {fileID: 861536718}
+  - {fileID: 1797717474}
+  - {fileID: 1742033108}
+  - {fileID: 490306410}
+  - {fileID: 969682191}
+  - {fileID: 1460371080}
+  - {fileID: 1663252149}
+  - {fileID: 458748110}
+  - {fileID: 589930524}
+  - {fileID: 1419513867}
+  - {fileID: 1229338958}
+  - {fileID: 605260467}
+  - {fileID: 1585785066}
+  - {fileID: 1157310364}
+  - {fileID: 1372037090}
+  - {fileID: 1379657375}
+  - {fileID: 512450147}
+  - {fileID: 854252464}
+  - {fileID: 75484496}
+  - {fileID: 1413679100}
+  - {fileID: 1371520590}
+  - {fileID: 1494087116}
+  - {fileID: 361282690}
+  - {fileID: 2045739741}
+  - {fileID: 1823249119}
+  - {fileID: 513428091}
+  - {fileID: 584702558}
+  - {fileID: 1896651594}
+  - {fileID: 674975738}
+  - {fileID: 585356167}
+  - {fileID: 508148206}
+  - {fileID: 1779855130}
+  - {fileID: 650482413}
+  - {fileID: 1554777953}
+  - {fileID: 439210200}
   SelectList: []
+  Black_Checker_Cnt: 0
+  White_Checker_Cnt: 0
   Act: 0
 --- !u!1 &705507993
 GameObject:
@@ -8314,7 +8357,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 0
-  Num: 0
+  Num: 87
 --- !u!1 &1027515604
 GameObject:
   m_ObjectHideFlags: 0
@@ -8426,7 +8469,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 2
-  Num: 0
+  Num: 82
 --- !u!1 &1039482910
 GameObject:
   m_ObjectHideFlags: 0
@@ -10124,7 +10167,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 0
-  Num: 0
+  Num: 83
 --- !u!1 &1229338956
 GameObject:
   m_ObjectHideFlags: 0
@@ -10590,7 +10633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 2
-  Num: 0
+  Num: 86
 --- !u!1 &1330029900
 GameObject:
   m_ObjectHideFlags: 0
@@ -13646,7 +13689,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spaceState: 2
-  Num: 0
+  Num: 88
 --- !u!1 &1570097857
 GameObject:
   m_ObjectHideFlags: 0
