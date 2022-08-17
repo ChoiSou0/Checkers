@@ -4,6 +4,6 @@ using UnityEngine;
 
 public class Space : MonoBehaviour
 {
-    SpaceState spaceState;
+    public SpaceState spaceState;
     public int Num;
 }

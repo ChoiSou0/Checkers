@@ -233,6 +233,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 68
 --- !u!1 &54693167
 GameObject:
@@ -344,6 +345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 56
 --- !u!1 &57055871
 GameObject:
@@ -455,6 +457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 49
 --- !u!1 &65845444
 GameObject:
@@ -566,6 +569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 47
 --- !u!1 &73900347
 GameObject:
@@ -677,6 +681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 28
 --- !u!1 &75484494
 GameObject:
@@ -728,6 +733,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 68
+  TheKing: 0
 --- !u!65 &75484497
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -917,6 +923,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 0
 --- !u!1 &100174834
 GameObject:
@@ -1028,6 +1035,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 72
 --- !u!1 &102667668
 GameObject:
@@ -1139,6 +1147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 55
 --- !u!1 &111887325
 GameObject:
@@ -1250,6 +1259,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 65
 --- !u!1 &132773441
 GameObject:
@@ -1361,6 +1371,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 0
 --- !u!1 &164132800
 GameObject:
@@ -1472,6 +1483,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 51
 --- !u!1 &171624935
 GameObject:
@@ -1583,6 +1595,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 19
 --- !u!1 &178223028
 GameObject:
@@ -1776,6 +1789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 23
 --- !u!1 &281628276
 GameObject:
@@ -1887,6 +1901,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 91
 --- !u!1 &302800194
 GameObject:
@@ -1998,6 +2013,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 37
 --- !u!1 &310320572
 GameObject:
@@ -2109,6 +2125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 30
 --- !u!1 &312861528
 GameObject:
@@ -2220,6 +2237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 41
 --- !u!1 &322166032
 GameObject:
@@ -2372,6 +2390,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 17
 --- !u!1 &356297466
 GameObject:
@@ -2483,6 +2502,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 0
 --- !u!1 &361282688
 GameObject:
@@ -2534,6 +2554,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 75
+  TheKing: 0
 --- !u!65 &361282691
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2723,6 +2744,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 0
 --- !u!1 &391273321
 GameObject:
@@ -2774,6 +2796,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 4
+  TheKing: 0
 --- !u!65 &391273324
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2963,6 +2986,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 14
 --- !u!1 &405923598
 GameObject:
@@ -3074,6 +3098,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 21
 --- !u!1 &429437254
 GameObject:
@@ -3185,6 +3210,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 76
 --- !u!1 &433802269
 GameObject:
@@ -3296,6 +3322,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 40
 --- !u!1 &439210198
 GameObject:
@@ -3347,6 +3374,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 99
+  TheKing: 0
 --- !u!65 &439210201
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3536,6 +3564,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 80
 --- !u!1 &458748108
 GameObject:
@@ -3587,6 +3616,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 26
+  TheKing: 0
 --- !u!65 &458748111
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3776,6 +3806,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 99
 --- !u!1 &480176543
 GameObject:
@@ -3887,6 +3918,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 61
 --- !u!1 &488916537
 GameObject:
@@ -3998,6 +4030,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 18
 --- !u!1 &490306408
 GameObject:
@@ -4049,6 +4082,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 17
+  TheKing: 0
 --- !u!65 &490306411
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4238,6 +4272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 0
 --- !u!1 &508148204
 GameObject:
@@ -4289,6 +4324,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 91
+  TheKing: 0
 --- !u!65 &508148207
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4418,6 +4454,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 64
+  TheKing: 0
 --- !u!65 &512450148
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4547,6 +4584,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 82
+  TheKing: 0
 --- !u!65 &513428092
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4736,6 +4774,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 35
 --- !u!1 &540603311
 GameObject:
@@ -4847,6 +4886,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 20
 --- !u!1 &584702556
 GameObject:
@@ -4898,6 +4938,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 84
+  TheKing: 0
 --- !u!65 &584702559
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5027,6 +5068,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 90
+  TheKing: 0
 --- !u!65 &585356168
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5156,6 +5198,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 28
+  TheKing: 0
 --- !u!65 &589930525
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5345,6 +5388,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 33
 --- !u!1 &592784245
 GameObject:
@@ -5456,6 +5500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 42
 --- !u!1 &597426144
 GameObject:
@@ -5567,6 +5612,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 27
 --- !u!1 &605260465
 GameObject:
@@ -5618,6 +5664,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 33
+  TheKing: 0
 --- !u!65 &605260468
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5747,6 +5794,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 95
+  TheKing: 0
 --- !u!65 &650482414
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5977,6 +6025,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 54
 --- !u!1 &674975736
 GameObject:
@@ -6028,6 +6077,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 88
+  TheKing: 0
 --- !u!65 &674975739
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6258,6 +6308,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 93
 --- !u!1 &685197426
 GameObject:
@@ -6369,6 +6420,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 15
 --- !u!1 &686834011
 GameObject:
@@ -6420,6 +6472,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 8
+  TheKing: 0
 --- !u!65 &686834014
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6756,6 +6809,7 @@ MonoBehaviour:
   - {x: 7, y: 1.1, z: 9}
   - {x: 9, y: 1.1, z: 9}
   SelectList: []
+  Act: 0
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -6960,6 +7014,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 59
 --- !u!1 &763900489
 GameObject:
@@ -7071,6 +7126,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 5
 --- !u!1 &794792628
 GameObject:
@@ -7223,6 +7279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 38
 --- !u!1 &854252462
 GameObject:
@@ -7274,6 +7331,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 66
+  TheKing: 0
 --- !u!65 &854252465
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7463,6 +7521,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 43
 --- !u!1 &861536716
 GameObject:
@@ -7514,6 +7573,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 11
+  TheKing: 0
 --- !u!65 &861536719
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7703,6 +7763,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 70
 --- !u!1 &963194225
 GameObject:
@@ -7838,6 +7899,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 19
+  TheKing: 0
 --- !u!65 &969682192
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8027,6 +8089,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 7
 --- !u!1 &985005418
 GameObject:
@@ -8138,6 +8201,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 77
 --- !u!1 &1027349332
 GameObject:
@@ -8249,6 +8313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 0
 --- !u!1 &1027515604
 GameObject:
@@ -8360,6 +8425,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 0
 --- !u!1 &1039482910
 GameObject:
@@ -8471,6 +8537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 97
 --- !u!1 &1060189381
 GameObject:
@@ -8582,6 +8649,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 94
 --- !u!1 &1081606119
 GameObject:
@@ -8693,6 +8761,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 62
 --- !u!1 &1089210214
 GameObject:
@@ -8804,6 +8873,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 58
 --- !u!1 &1089462178
 GameObject:
@@ -8915,6 +8985,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 78
 --- !u!1 &1093449513
 GameObject:
@@ -9026,6 +9097,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 1
 --- !u!1 &1097893894
 GameObject:
@@ -9137,6 +9209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 98
 --- !u!1 &1124147917
 GameObject:
@@ -9248,6 +9321,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 57
 --- !u!1 &1126824674
 GameObject:
@@ -9359,6 +9433,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 2
 --- !u!1 &1129736528
 GameObject:
@@ -9470,6 +9545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 3
 --- !u!1 &1157310362
 GameObject:
@@ -9521,6 +9597,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 37
+  TheKing: 0
 --- !u!65 &1157310365
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9710,6 +9787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 100
 --- !u!1 &1208030657
 GameObject:
@@ -9821,6 +9899,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 25
 --- !u!1 &1208390043
 GameObject:
@@ -9932,6 +10011,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 8
 --- !u!1 &1208443938
 GameObject:
@@ -10043,6 +10123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 0
 --- !u!1 &1229338956
 GameObject:
@@ -10094,6 +10175,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 31
+  TheKing: 0
 --- !u!65 &1229338959
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10283,6 +10365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 26
 --- !u!1 &1291708763
 GameObject:
@@ -10394,6 +10477,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 74
 --- !u!1 &1302797683
 GameObject:
@@ -10505,6 +10589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 0
 --- !u!1 &1330029900
 GameObject:
@@ -10687,6 +10772,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 92
 --- !u!1 &1336925642
 GameObject:
@@ -10798,6 +10884,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 45
 --- !u!1 &1346715608
 GameObject:
@@ -10909,6 +10996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 32
 --- !u!1 &1371520588
 GameObject:
@@ -10960,6 +11048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 71
+  TheKing: 0
 --- !u!65 &1371520591
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11089,6 +11178,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 39
+  TheKing: 0
 --- !u!65 &1372037091
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11278,6 +11368,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 36
 --- !u!1 &1375663146
 GameObject:
@@ -11389,6 +11480,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 4
 --- !u!1 &1379657373
 GameObject:
@@ -11440,6 +11532,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 62
+  TheKing: 0
 --- !u!65 &1379657376
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11629,6 +11722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 79
 --- !u!1 &1397869405
 GameObject:
@@ -11740,6 +11834,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 9
 --- !u!1 &1406270447
 GameObject:
@@ -11851,6 +11946,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 34
 --- !u!1 &1413679098
 GameObject:
@@ -11902,6 +11998,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 70
+  TheKing: 0
 --- !u!65 &1413679101
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12031,6 +12128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 30
+  TheKing: 0
 --- !u!65 &1419513868
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12220,6 +12318,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 60
 --- !u!1 &1429996540
 GameObject:
@@ -12331,6 +12430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 66
 --- !u!1 &1435141031
 GameObject:
@@ -12442,6 +12542,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 44
 --- !u!1 &1437345383
 GameObject:
@@ -12553,6 +12654,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 64
 --- !u!1 &1440105775
 GameObject:
@@ -12664,6 +12766,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 96
 --- !u!1 &1460371078
 GameObject:
@@ -12715,6 +12818,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 22
+  TheKing: 0
 --- !u!65 &1460371081
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12904,6 +13008,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 31
 --- !u!1 &1482579673
 GameObject:
@@ -13015,6 +13120,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 22
 --- !u!1 &1494087114
 GameObject:
@@ -13066,6 +13172,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 73
+  TheKing: 0
 --- !u!65 &1494087117
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13255,6 +13362,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 73
 --- !u!1 &1509621128
 GameObject:
@@ -13347,6 +13455,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 97
+  TheKing: 0
 --- !u!65 &1554777954
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13536,6 +13645,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 0
 --- !u!1 &1570097857
 GameObject:
@@ -13628,6 +13738,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 35
+  TheKing: 0
 --- !u!65 &1585785067
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13817,6 +13928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 12
 --- !u!1 &1663252147
 GameObject:
@@ -13868,6 +13980,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 24
+  TheKing: 0
 --- !u!65 &1663252150
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14057,6 +14170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 13
 --- !u!1 &1692689082
 GameObject:
@@ -14149,6 +14263,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 10
+  TheKing: 0
 --- !u!65 &1710153463
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14278,6 +14393,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 15
+  TheKing: 0
 --- !u!65 &1742033109
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14467,6 +14583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 10
 --- !u!1 &1764913759
 GameObject:
@@ -14559,6 +14676,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 93
+  TheKing: 0
 --- !u!65 &1779855131
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14688,6 +14806,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 13
+  TheKing: 0
 --- !u!65 &1797717475
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14877,6 +14996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 29
 --- !u!1 &1823249117
 GameObject:
@@ -14928,6 +15048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 79
+  TheKing: 0
 --- !u!65 &1823249120
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15117,6 +15238,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 53
 --- !u!1 &1885209660
 GameObject:
@@ -15228,6 +15350,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 6
 --- !u!1 &1887528812
 GameObject:
@@ -15339,6 +15462,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 50
 --- !u!1 &1896651592
 GameObject:
@@ -15390,6 +15514,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 86
+  TheKing: 0
 --- !u!65 &1896651595
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15579,6 +15704,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 39
 --- !u!1 &1909857155
 GameObject:
@@ -15690,6 +15816,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 24
 --- !u!1 &1919566054
 GameObject:
@@ -15801,6 +15928,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 67
 --- !u!1 &1926310508
 GameObject:
@@ -15912,6 +16040,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 75
 --- !u!1 &1932336176
 GameObject:
@@ -16023,6 +16152,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 1
   Num: 11
 --- !u!1 &1961193560
 GameObject:
@@ -16074,6 +16204,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 6
+  TheKing: 0
 --- !u!65 &1961193563
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16263,6 +16394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 16
 --- !u!1 &1974783496
 GameObject:
@@ -16374,6 +16506,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 69
 --- !u!1 &1977688388
 GameObject:
@@ -16485,6 +16618,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 63
 --- !u!1 &2016220626
 GameObject:
@@ -16596,6 +16730,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 46
 --- !u!1 &2018397915
 GameObject:
@@ -16726,6 +16861,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 0
   Num: 2
+  TheKing: 0
 --- !u!1 &2045739739
 GameObject:
   m_ObjectHideFlags: 0
@@ -16776,6 +16912,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   checkerState: 1
   Num: 77
+  TheKing: 0
 --- !u!65 &2045739742
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16965,6 +17102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 95
 --- !u!1 &2072575760
 GameObject:
@@ -17076,6 +17214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 52
 --- !u!1 &2105342048
 GameObject:
@@ -17187,6 +17326,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 0
   Num: 48
 --- !u!1 &2114016107
 GameObject:
@@ -17298,4 +17438,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b80f6630dfc94a47a7df4a1e6a12989, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spaceState: 2
   Num: 71
