@@ -30,7 +30,7 @@ public class Space_Mgr : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        CheckCnt();
+        //CheckCnt();
     }
 
     // Update is called once per frame
@@ -134,7 +134,7 @@ public class Space_Mgr : MonoBehaviour
             checker.TheKing = true;
 
         SelectList.Clear();
-        CheckCnt();
+        //CheckCnt();
     }
 
     private void CheckCnt()
