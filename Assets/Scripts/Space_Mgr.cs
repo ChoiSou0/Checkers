@@ -26,11 +26,12 @@ public class Space_Mgr : MonoBehaviour
     public int White_Checker_Cnt;
 
     public int Act;
+    public bool Turn;
 
     // Start is called before the first frame update
     void Start()
     {
-        //CheckCnt();
+        CheckCnt();
     }
 
     // Update is called once per frame
@@ -93,6 +94,11 @@ public class Space_Mgr : MonoBehaviour
 
     }
 
+    private void TurnCheck()
+    {
+
+    }
+
     private void DestroyCheck(Space space, int idx)
     {
         int i = SelectList[0].Num - idx - 1;
@@ -134,7 +140,7 @@ public class Space_Mgr : MonoBehaviour
             checker.TheKing = true;
 
         SelectList.Clear();
-        //CheckCnt();
+        CheckCnt();
     }
 
     private void CheckCnt()
