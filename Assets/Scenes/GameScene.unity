@@ -5712,7 +5712,8 @@ MonoBehaviour:
   SelectList: []
   Black_Checker_Cnt: 0
   White_Checker_Cnt: 0
-  Act: 0
+  Act: 1
+  Turn: 1
 --- !u!114 &704470578 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: -472804806898378364, guid: 6353aca7cb7ea62408c442856b6530f9, type: 3}

@@ -79,10 +79,49 @@ public class Space_Mgr : MonoBehaviour
                     {
                         result = SelectList[0].Num - Obj.GetComponent<Space>().Num;
 
-                        if (result == 9 || result == 11 || result == -9 || result == -11)
-                            ChangeChecker(SelectList[0], Obj.GetComponent<Space>());
-                        else if (result == 18 || result == 22 || result == -18 || result == -22)
-                            DestroyCheck(Obj.GetComponent<Space>(), result);
+                        switch (SelectList[0].checkerState)
+                        {
+                            case CheckerState.white:
+                                if (Turn == true)
+                                {
+                                    if (SelectList[0].TheKing)
+                                    {
+                                        if (result == 9 || result == 11 || result == -9 || result == -11)
+                                            ChangeChecker(SelectList[0], Obj.GetComponent<Space>());
+                                        else if (result == 18 || result == 22 || result == -18 || result == -22)
+                                            DestroyCheck(Obj.GetComponent<Space>(), result);
+                                    }
+                                    else
+                                    {
+                                        if (result == 9 || result == 11)
+                                            ChangeChecker(SelectList[0], Obj.GetComponent<Space>());
+                                        else if (result == 18 || result == 22)
+                                            DestroyCheck(Obj.GetComponent<Space>(), result);
+                                    }
+                                }
+                                break;
+
+                            case CheckerState.black:
+                                if (Turn == false)
+                                {
+                                    if (SelectList[0].TheKing)
+                                    {
+                                        if (result == 9 || result == 11 || result == -9 || result == -11)
+                                            ChangeChecker(SelectList[0], Obj.GetComponent<Space>());
+                                        else if (result == 18 || result == 22 || result == -18 || result == -22)
+                                            DestroyCheck(Obj.GetComponent<Space>(), result);
+                                    }
+                                    else
+                                    {
+                                        if (result == -9 || result == -11)
+                                            ChangeChecker(SelectList[0], Obj.GetComponent<Space>());
+                                        else if (result == -18 || result == -22)
+                                            DestroyCheck(Obj.GetComponent<Space>(), result);
+                                    }
+                                }
+                                break;
+                        }
+
 
                     }
 
@@ -99,25 +138,35 @@ public class Space_Mgr : MonoBehaviour
         switch (SelectList[0].checkerState)
         {
             case CheckerState.white:
-                if (SelectList[0].TheKing)
+                if (Turn)
                 {
+                    if (SelectList[0].TheKing)
+                    {
 
+                    }
+                    else
+                    {
+
+                    }
                 }
                 else
-                {
-
-                }
+                    return;
                 break;
 
             case CheckerState.black:
-                if (SelectList[0].TheKing)
+                if (!Turn)
                 {
+                    if (SelectList[0].TheKing)
+                    {
 
+                    }
+                    else
+                    {
+
+                    }
                 }
                 else
-                {
-
-                }
+                    return;
                 break;
         }
     }
@@ -153,6 +202,8 @@ public class Space_Mgr : MonoBehaviour
         else if (checker.checkerState == CheckerState.white)
             space.spaceState = SpaceState.white;
 
+        Act--;
+
         spaceList[checker.Num - 1].spaceState = SpaceState.none;
         checker.Num = space.Num;
         checker.transform.position = Vec[space.Num - 1];
@@ -161,6 +212,20 @@ public class Space_Mgr : MonoBehaviour
             checker.TheKing = true;
         else if (checker.checkerState == CheckerState.black && checker.Num >= 91)
             checker.TheKing = true;
+
+        if (Act == 0)
+        {
+            if (Turn == true)
+            {
+                Turn = false;
+            }
+            else
+            {
+                Turn = true;
+            }
+
+            Act = 1;
+        }
 
         SelectList.Clear();
         CheckCnt();
