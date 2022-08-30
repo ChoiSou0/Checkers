@@ -183,6 +183,7 @@ public class Space_Mgr : MonoBehaviour
                     if (checkersList[j].checkerState == SelectList[0].checkerState)
                         return;
 
+                    Act++;
                     spaceList[checkersList[j].Num - 1].spaceState = SpaceState.none;
                     Destroy(checkersList[j].gameObject);
                     checkersList.Remove(checkersList[j]);
