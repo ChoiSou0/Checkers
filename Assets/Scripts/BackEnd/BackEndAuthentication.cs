@@ -30,6 +30,7 @@ public class BackEndAuthentication : MonoBehaviour
         Debug.Log("동기 방식");
     }
 
+    // 로그인 동기방식
     public void OnClickLogin1()
     {
         string error = Backend.BMember.CustomLogin(idInput.text, palnInput.text).GetErrorCode();
@@ -46,6 +47,26 @@ public class BackEndAuthentication : MonoBehaviour
 
             default:
                 Debug.Log("로그인 완료");
+                break;
+        }
+    }
+
+    public void AutoLogin()
+    {
+        string error = Backend.BMember.LoginWithTheBackendToken().GetErrorCode();
+
+        switch (error)
+        {
+            case "GoneResourceException":
+                break;
+
+            case "BadUnauthorizedException":
+                break;
+
+            case "BadPlayer":
+                break;
+
+            default:
                 break;
         }
     }
