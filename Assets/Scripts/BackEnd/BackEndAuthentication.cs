@@ -58,15 +58,19 @@ public class BackEndAuthentication : MonoBehaviour
         switch (error)
         {
             case "GoneResourceException":
+                Debug.Log("토큰이 만료됨");
                 break;
 
             case "BadUnauthorizedException":
+                Debug.Log("다른 기기로 로그인되었음");
                 break;
 
             case "BadPlayer":
+                Debug.Log("너 차단된거야");
                 break;
 
             default:
+                Debug.Log("로그인 완료");
                 break;
         }
     }

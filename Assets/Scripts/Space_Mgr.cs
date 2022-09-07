@@ -133,44 +133,6 @@ public class Space_Mgr : MonoBehaviour
 
     }
 
-    private void TurnCheck()
-    {
-        switch (SelectList[0].checkerState)
-        {
-            case CheckerState.white:
-                if (Turn)
-                {
-                    if (SelectList[0].TheKing)
-                    {
-
-                    }
-                    else
-                    {
-
-                    }
-                }
-                else
-                    return;
-                break;
-
-            case CheckerState.black:
-                if (!Turn)
-                {
-                    if (SelectList[0].TheKing)
-                    {
-
-                    }
-                    else
-                    {
-
-                    }
-                }
-                else
-                    return;
-                break;
-        }
-    }
-
     private void DestroyCheck(Space space, int idx)
     {
         int i = SelectList[0].Num - idx - 1;
